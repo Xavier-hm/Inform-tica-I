@@ -1,0 +1,22 @@
+Periodo: 2024-10-21 - 2024-11-20
+
+Variable: PM10
+  Máximo: 54.4 en estación 1 el 2024-11-20
+  Mínimo: 54.1 en estación 1 el 2024-11-20
+  Promedio: 54.25
+
+Variable: PM25
+  Máximo: 55.7 en estación 1 el 2024-11-20
+  Mínimo: 45.4 en estación 1 el 2024-11-20
+  Promedio: 50.55
+
+Variable: Temperatura
+  Máximo: 44.0 en estación 1 el 2024-11-20
+  Mínimo: 8.2 en estación 1 el 2024-11-20
+  Promedio: 26.10
+
+Variable: Humedad
+  Máximo: 7.5 en estación 1 el 2024-11-20
+  Mínimo: 1.2 en estación 1 el 2024-11-20
+  Promedio: 4.35
+

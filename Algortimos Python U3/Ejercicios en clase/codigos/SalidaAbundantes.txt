@@ -1,0 +1,18 @@
+2 no es un numero abundante 
+12 es un numero abundante 
+112 es un numero abundante 
+113 no es un numero abundante 
+5 no es un numero abundante 
+3 no es un numero abundante 
+2 no es un numero abundante 
+3 no es un numero abundante 
+5 no es un numero abundante 
+6 no es un numero abundante 
+7 no es un numero abundante 
+12 es un numero abundante 
+11 no es un numero abundante 
+22 no es un numero abundante 
+33 no es un numero abundante 
+44 no es un numero abundante 
+5 no es un numero abundante 
+6 no es un numero abundante 
